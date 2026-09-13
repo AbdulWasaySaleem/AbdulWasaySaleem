@@ -19,7 +19,8 @@ I'm a Software Engineering graduate from the University of Karachi. My backgroun
 - 🌱 Deepening my skills in ASP.NET Core, SQL Server, and Dynamics 365 customization
 - 👯 Open to collaborating on backend architecture and scalable systems
 - 💬 Ask me about C#, Dynamics 365 plugins, or full-stack JavaScript
-- 📫 Reach me at: 07.abdulwasayy@gmail.com
+- 🌍 Reach me at: 07.abdulwasayy@gmail.com
+- 📫 [Portfolio](https://abdul-wasayy.vercel.app/)
 
 ## 💻 Technical Skills
 
