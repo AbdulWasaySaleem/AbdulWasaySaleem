@@ -61,6 +61,12 @@ I'm a Software Engineering graduate from the University of Karachi. My backgroun
   <a href="https://www.instagram.com/bitbuilddev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://linktr.ee/bitbuilddev">
+  <img
+    src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"
+    alt="Linktree"
+  />
+  </a>
   <a href="mailto:07.abdulwasayy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
